@@ -1,0 +1,12 @@
+[package]
+name = "asuka"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15.0"
+gql_client = "1.0.7"
+rig-core = "0.5.0"
+serde = "1.0.216"
+tokio = "1.42.0"
+twitter-v2 = "0.1.8"
